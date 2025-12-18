@@ -2,8 +2,11 @@
     <div class="owl-carousel owl-banner">
         <div class="item item-1">
             <div class="header-text">
-                <span class="category">Indonesia <em>Natural</em></span>
-                <h2>Premium<br>Natural Coconut Sugar</h2>
+                <span class="category">Indonesia <em>Origin</em></span>
+                <h2>
+                    Premium Indonesian<br>
+                    Coconut Sugar Supplier
+                </h2>
             </div>
         </div>
     </div>
