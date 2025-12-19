@@ -5,7 +5,7 @@
                 <span class="category">Indonesia <em>Origin</em></span>
                 <h2>
                     Premium Indonesian<br>
-                    Coconut Sugar Supplier
+                    Natural Sugar Supplier
                 </h2>
             </div>
         </div>

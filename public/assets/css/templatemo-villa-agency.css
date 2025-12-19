@@ -1150,6 +1150,24 @@ Best Deal Style
   padding: 35px 30px;
 }
 
+/* Wrapper item */
+.owl-certifications .item {
+    height: 120px;              /* tinggi seragam */
+    display: flex;
+    align-items: center;        /* center vertikal */
+    justify-content: center;    /* center horizontal */
+}
+
+/* Image logo */
+.owl-certifications .item img {
+    max-height: 120px;
+    max-width: 140px;           /* penting untuk NON GMO */
+    width: auto;
+    height: auto;
+    object-fit: contain;
+}
+
+
 .best-deal .info-table ul li {
   display: block;
   margin-bottom: 24px;
@@ -1168,7 +1186,7 @@ Best Deal Style
 }
 
 .best-deal .info-table ul li span {
-  font-size: 20px;
+  font-size: 15px;
   color: #1e1e1e;
   font-weight: 700;
   float: right;
@@ -1267,7 +1285,7 @@ Contact Style
 */
 
 .contact {
-  background-image: url(../images/contact-bg.jpg);
+  background-image: url(../images/kebun-kelapa.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1275,9 +1293,30 @@ Contact Style
   position: relative;
 }
 
+/* Overlay gelap */
+.contact::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45); /* atur tingkat gelap */
+  z-index: 1;
+}
+
+/* Pastikan konten di atas overlay */
+.contact .container {
+  position: relative;
+  z-index: 2;
+}
+
+
 .contact .section-heading h2 {
   color: #fff;
 }
+
+.contact .section-heading h6 {
+  color: #ffffff;
+}
+
 
 .contact-content {
   margin-top: -240px;

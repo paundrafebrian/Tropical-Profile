@@ -16,6 +16,9 @@
     {{-- Products --}}
     @include('sections.products')
 
+    {{-- Blog --}}
+    @include('sections.blog')
+
     {{-- Contact --}}
     @include('sections.contact')
 
