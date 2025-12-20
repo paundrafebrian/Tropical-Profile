@@ -1215,8 +1215,13 @@ Properties Style
 ---------------------------------------------
 */
 
-.properties .item {
+.properties {
   background-color: #fafafa;
+  padding: 100px 0px;
+}
+
+.properties .item {
+  background-color: #fffdfd;
   border-radius: 10px;
   padding: 30px;
   margin-bottom: 30px;

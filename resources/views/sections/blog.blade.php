@@ -1,10 +1,10 @@
 <div class="properties section">
     <div class="container">
         <div class="row">
-            <div class="col-lg-4 offset-lg-4">
-                <div class="section-heading text-center">
-                    <h6>| Properties</h6>
-                    <h2>We Provide The Best Property You Like</h2>
+            <div class="col-lg-6">
+                <div class="section-heading">
+                    <h6>| Buyer Insights</h6>
+                    <h2>Helping Buyers Source With Confidence</h2>
                 </div>
             </div>
         </div>
@@ -12,40 +12,49 @@
             <div class="col-lg-4 col-md-6">
                 <div class="item">
                     <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
-                    <h4><a href="property-details.html">18 New Street Miami, OR 97219</a></h4>
-                    <ul>
-                        <li>Bedrooms: <span>8</span></li>
-                        <li>Bathrooms: <span>8</span></li>
-                        <li>Area: <span>545m2</span></li>
-                        <li>Floor: <span>3</span></li>
-                        <li>Parking: <span>6 spots</span></li>
-                    </ul>
+                    <h4>
+                        <a href="#">
+                            What Importers Should Check Before Buying Coconut Sugar
+                        </a>
+                    </h4>
+                    <p>
+                        Key quality indicators, documentation, and production standards
+                        buyers should verify before placing an order.
+                    </p>
+                    <br>
+                    <span class="meta">Apr 28, 2025 · 4 min read</span>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="item">
                     <a href="property-details.html"><img src="assets/images/property-02.jpg" alt=""></a>
-                    <h4><a href="property-details.html">54 Mid Street Florida, OR 27001</a></h4>
-                    <ul>
-                        <li>Bedrooms: <span>6</span></li>
-                        <li>Bathrooms: <span>5</span></li>
-                        <li>Area: <span>450m2</span></li>
-                        <li>Floor: <span>3</span></li>
-                        <li>Parking: <span>8 spots</span></li>
-                    </ul>
+                    <h4>
+                        <a href="#">
+                            How Indonesian Producers Ensure Stable Coconut Sugar Supply
+                        </a>
+                    </h4>
+                    <p>
+                        From raw material sourcing to production planning,
+                        learn how supply consistency is maintained.
+                    </p>
+                    <br>
+                    <span class="meta">Jan 10, 2025 · 3 min read</span>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="item">
                     <a href="property-details.html"><img src="assets/images/property-03.jpg" alt=""></a>
-                    <h4><a href="property-details.html">26 Old Street Miami, OR 38540</a></h4>
-                    <ul>
-                        <li>Bedrooms: <span>5</span></li>
-                        <li>Bathrooms: <span>4</span></li>
-                        <li>Area: <span>225m2</span></li>
-                        <li>Floor: <span>3</span></li>
-                        <li>Parking: <span>10 spots</span></li>
-                    </ul>
+                    <h4>
+                        <a href="#">
+                            Quality Control Process Behind Export-Grade Coconut Sugar
+                        </a>
+                    </h4>
+                    <p>
+                        An inside look at moisture control, mesh consistency,
+                        and batch testing for export markets.
+                    </p>
+                    <br>
+                    <span class="meta">Jan 10, 2025 · 6 min read</span>
                 </div>
             </div>
         </div>
