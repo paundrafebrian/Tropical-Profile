@@ -11,7 +11,7 @@
         <div class="row">
             <div class="col-lg-4 col-md-6">
                 <div class="item">
-                    <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
+                    <a href="property-details.html"><img src="assets/images/blog-1.jpg" alt=""></a>
                     <h4>
                         <a href="{{ url('/blog/what-importers-should-check') }}">
                             What Importers Should Check Before Buying Coconut Sugar
@@ -28,7 +28,7 @@
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="item">
-                    <a href="property-details.html"><img src="assets/images/property-02.jpg" alt=""></a>
+                    <a href="property-details.html"><img src="assets/images/blog-2.png" alt=""></a>
                     <h4>
                         <a href="{{ url('/blog/stable-coconut-sugar-supply') }}">
                             How Indonesian Producers Ensure Stable Coconut Sugar Supply
@@ -44,7 +44,7 @@
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="item">
-                    <a href="property-details.html"><img src="assets/images/property-03.jpg" alt=""></a>
+                    <a href="property-details.html"><img src="assets/images/blog-3.png" alt=""></a>
                     <h4>
                         <a href="{{ url('/blog/export-grade-quality-control') }}">
                             Quality Control Process Behind Export-Grade Coconut Sugar

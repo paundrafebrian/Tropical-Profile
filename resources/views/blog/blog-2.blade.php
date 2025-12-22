@@ -23,7 +23,7 @@
                 <div class="col-lg-8">
 
                     <div class="main-image mb-4">
-                        <img src="{{ asset('assets/images/property-02.jpg') }}" alt="Stable Coconut Sugar Supply">
+                        <img src="{{ asset('assets/images/blog-2.png') }}" alt="Stable Coconut Sugar Supply">
                     </div>
 
                     <div class="main-content">

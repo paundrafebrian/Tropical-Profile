@@ -28,7 +28,7 @@
                 <!-- MAIN CONTENT -->
                 <div class="col-lg-8">
                     <div class="main-image">
-                        <img src="{{ asset('assets/images/property-01.jpg') }}" alt="Coconut Sugar Export">
+                        <img src="{{ asset('assets/images/blog-1.jpg') }}" alt="Coconut Sugar Export">
                     </div>
 
                     <div class="main-content">
