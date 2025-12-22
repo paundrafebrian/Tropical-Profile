@@ -13,10 +13,11 @@
                 <div class="item">
                     <a href="property-details.html"><img src="assets/images/property-01.jpg" alt=""></a>
                     <h4>
-                        <a href="#">
+                        <a href="{{ url('/blog/what-importers-should-check') }}">
                             What Importers Should Check Before Buying Coconut Sugar
                         </a>
                     </h4>
+
                     <p>
                         Key quality indicators, documentation, and production standards
                         buyers should verify before placing an order.
@@ -29,7 +30,7 @@
                 <div class="item">
                     <a href="property-details.html"><img src="assets/images/property-02.jpg" alt=""></a>
                     <h4>
-                        <a href="#">
+                        <a href="{{ url('/blog/stable-coconut-sugar-supply') }}">
                             How Indonesian Producers Ensure Stable Coconut Sugar Supply
                         </a>
                     </h4>
@@ -45,7 +46,7 @@
                 <div class="item">
                     <a href="property-details.html"><img src="assets/images/property-03.jpg" alt=""></a>
                     <h4>
-                        <a href="#">
+                        <a href="{{ url('/blog/export-grade-quality-control') }}">
                             Quality Control Process Behind Export-Grade Coconut Sugar
                         </a>
                     </h4>
