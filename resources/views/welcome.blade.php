@@ -1,6 +1,6 @@
 @extends('layouts.main')
 
-@section('title', 'Home | PT Tropical Natural Sugar')
+@section('title', 'Dashboard | PT Tropical Natural Sugar')
 
 @section('content')
 

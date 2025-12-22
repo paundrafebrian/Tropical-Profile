@@ -1464,13 +1464,30 @@ Page Header Style
 */
 
 .page-heading {
-  background-image: url(../images/page-heading-bg.jpg);
+  position: relative;
+  background-image: url(../images/334.jpg);
   background-position: center bottom;
   background-repeat: no-repeat;
   background-size: cover;
   padding: 110px 0px;
   text-align: center;
 }
+
+/* overlay gelap */
+.page-heading::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6); /* ubah 0.5 – 0.7 sesuai selera */
+  z-index: 1;
+}
+
+/* pastikan teks di atas overlay */
+.page-heading * {
+  position: relative;
+  z-index: 2;
+}
+
 
 .page-heading span {
   background-color: #fff;
