@@ -4,7 +4,7 @@
             <div class="col-lg-4 offset-lg-4">
                 <div class="section-heading text-center">
                     <h6>| Contact Us</h6>
-                    <h2>Get In Touch With Our Agents</h2>
+                    <h2>Let’s Discuss Your Business Needs</h2>
                 </div>
             </div>
         </div>
@@ -44,15 +44,16 @@
                         <div class="col-lg-12">
                             <fieldset>
                                 <label for="name">Full Name</label>
-                                <input type="text" name="name" id="name" placeholder="Your Name..." autocomplete="on"
-                                    required>
+                                <input type="text" name="name" id="name" placeholder="Your Name..."
+                                    autocomplete="on" required>
                             </fieldset>
                         </div>
 
                         <div class="col-lg-12">
                             <fieldset>
                                 <label for="email">Email Address</label>
-                                <input type="email" name="email" id="email" placeholder="Your E-mail..." required>
+                                <input type="email" name="email" id="email" placeholder="Your E-mail..."
+                                    required>
                             </fieldset>
                         </div>
 
